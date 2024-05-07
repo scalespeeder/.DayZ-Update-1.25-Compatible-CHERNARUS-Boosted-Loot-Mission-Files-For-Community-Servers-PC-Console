@@ -1,6 +1,6 @@
 1.25 DayZ Chernarus Building, Hunting, Farming, Fishing & Trading PvE xml Mod Changelog & Terms Of Use
 
-Limited Testing on PC Chernarus Local Server DAYZ EXPERIMENTAL Version 1.25 FMAY 2024.
+Limited Testing on PC Chernarus Local Server DAYZ EXPERIMENTAL Version 1.25 MAY 2024.
 
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
